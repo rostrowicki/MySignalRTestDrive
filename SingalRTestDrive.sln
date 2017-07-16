@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingalRChat", "SingalRTestDrive\SingalRChat.csproj", "{0D175DEC-6B3B-4434-94E3-39E1164DCF31}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRChat", "SingalRTestDrive\SignalRChat.csproj", "{0D175DEC-6B3B-4434-94E3-39E1164DCF31}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

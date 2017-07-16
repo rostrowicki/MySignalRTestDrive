@@ -1,8 +1,8 @@
 ﻿using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartup(typeof(SingalRChat.Startup))]
-namespace SingalRChat
+[assembly: OwinStartup(typeof(SignalRChat.Startup))]
+namespace SignalRChat
 { 
     public class Startup
     {
